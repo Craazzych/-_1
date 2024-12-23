@@ -40,12 +40,6 @@ pwd(self)
 Описание: Выводит текущую директорию.
 cp(self, source, destination)
 
-Описание: Копирует файл из исходной директории в конечную.
-Параметры:
-source: Путь к исходному файлу.
-destination: Путь к конечному файлу.
-whoami(self)
-
 Описание: Выводит имя текущего пользователя.
 exit(self)
 
@@ -53,3 +47,6 @@ exit(self)
 run(self)
 
 Описание: Основной цикл работы эмулятора, ожидающий ввода команд от пользователя.
+![397940494-638d5015-f7eb-4582-b1ca-2d2ecc148eb4](https://github.com/user-attachments/assets/55c7f065-be2b-400c-ad77-be42591c2d69)
+
+![397940511-f581ec6d-9bae-4e51-be1a-d3f211f60d7c](https://github.com/user-attachments/assets/8a28305b-2896-4772-94b3-11902dbbfa41)
